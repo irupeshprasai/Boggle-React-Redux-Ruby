@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+label{
+  color:#18252e;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+h2, label{
+  margin-left: 5px;
+}
